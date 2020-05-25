@@ -1,0 +1,11 @@
+Murav 15000
+Nikitin 10000
+Urusov 200000
+Ivanov 96000
+Yudin 150000
+Rachimov 300000
+Petrov 100000
+Sharov 111000
+Gerok 10000
+Shir 15000
+
